@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/aspect.png</file>
+        <file>icons/audio_channels.png</file>
+        <file>icons/back.png</file>
+        <file>icons/background.png</file>
+        <file>icons/close.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/forward1m.png</file>
+        <file>icons/forward10m.png</file>
+        <file>icons/forward10s.png</file>
+        <file>icons/fullscreen.png</file>
+        <file>icons/go-home.png</file>
+        <file>icons/loading.gif</file>
+        <file>icons/logo.png</file>
+        <file>icons/mute.png</file>
+        <file>icons/open.png</file>
+        <file>icons/openfolder.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/rewind1m.png</file>
+        <file>icons/rewind10m.png</file>
+        <file>icons/rewind10s.png</file>
+        <file>icons/stereo_mode.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/video_size.png</file>
+        <file>icons/volume.png</file>
+    </qresource>
+</RCC>
